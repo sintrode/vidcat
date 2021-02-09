@@ -3,7 +3,7 @@
 ::     vidcat.bat, The Video Concatenator
 ::
 :: USAGE
-::     vidcat.bat <input_folder|filelist> [output.mkv]
+::     vidcat.bat <input_folder|filelist> [output_file]
 ::
 :: DESCRIPTION
 ::     Combines all files in a specified folder or textfile into a single MKV
@@ -113,7 +113,7 @@ echo [1mNAME[0m
 echo     vidcat.bat, The Video Concatenator
 echo(
 echo [1mUSAGE[0m
-echo     vidcat.bat ^<input_folder^|input_file^> [output.mkv]
+echo     vidcat.bat ^<input_folder^|input_file^> [output_file]
 echo(
 echo [1mDESCRIPTION[0m
 echo     Combines all files in a specified folder or textfile into a single MKV
